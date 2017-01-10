@@ -1,4 +1,6 @@
-﻿Option Explicit On
+'Extract names from employee database
+
+Option Explicit On
 
 Function CleanName(c As Range) As String
 
